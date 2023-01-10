@@ -6,7 +6,7 @@ body {
 
 main{
     height: 450px;
-    background-image: url('./SpaceImage.jpg');
+    background-image: url('/SpaceImage.jpg');
     background-size: cover;
     display: flex;
     justify-content: center;
