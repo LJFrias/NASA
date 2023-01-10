@@ -6,7 +6,7 @@ body {
 
 main{
     height: 450px;
-    background-image: url(/SpaceImage.jpg);
+    background-image: url(./SpaceImage.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -19,11 +19,6 @@ main{
     justify-content: space-around;
     background-color: #cccccc;
     margin: 20px auto;
-}
-
-section {
-    /* width: 270px; */
-    /* margin: 0 20px 0 20px; */
 }
 
 h1{
